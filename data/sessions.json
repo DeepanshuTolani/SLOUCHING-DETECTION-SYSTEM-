@@ -1,0 +1,656 @@
+[
+  {
+    "session_id": "session_1_20250808_191944",
+    "timestamp": "2025-08-08T19:19:44.278739",
+    "start_time": "2025-08-08T19:18:52.384383",
+    "end_time": "2025-08-08T19:19:44.278739",
+    "duration": 51.894356,
+    "total_detections": 0,
+    "slouch_count": 0,
+    "good_posture_count": 0,
+    "slouch_percentage": 0,
+    "alerts": []
+  },
+  {
+    "session_id": "session_2_20250808_192004",
+    "timestamp": "2025-08-08T19:20:04.980309",
+    "start_time": "2025-08-08T19:19:47.316885",
+    "end_time": "2025-08-08T19:20:04.980309",
+    "duration": 17.663424,
+    "total_detections": 0,
+    "slouch_count": 0,
+    "good_posture_count": 0,
+    "slouch_percentage": 0,
+    "alerts": []
+  },
+  {
+    "session_id": "session_3_20250808_192627",
+    "timestamp": "2025-08-08T19:26:27.363356",
+    "start_time": "2025-08-08T19:25:58.834201",
+    "end_time": "2025-08-08T19:26:27.363356",
+    "duration": 28.529155,
+    "total_detections": 121,
+    "slouch_count": 0,
+    "good_posture_count": 121,
+    "slouch_percentage": 0.0,
+    "alerts": []
+  },
+  {
+    "session_id": "session_4_20250808_193259",
+    "timestamp": "2025-08-08T19:32:59.429070",
+    "start_time": "2025-08-08T19:32:52.831550",
+    "end_time": "2025-08-08T19:32:59.429070",
+    "duration": 6.59752,
+    "total_detections": 0,
+    "slouch_count": 0,
+    "good_posture_count": 0,
+    "slouch_percentage": 0,
+    "alerts": []
+  },
+  {
+    "session_id": "session_5_20250808_210755",
+    "timestamp": "2025-08-08T21:07:55.056854",
+    "start_time": "2025-08-08T21:07:06.792461",
+    "end_time": "2025-08-08T21:07:55.056854",
+    "duration": 48.264393,
+    "total_detections": 0,
+    "slouch_count": 0,
+    "good_posture_count": 0,
+    "slouch_percentage": 0,
+    "alerts": []
+  },
+  {
+    "session_id": "sample_session_0_0_20250808_130700",
+    "timestamp": "2025-08-08T13:18:00",
+    "start_time": "2025-08-08T13:07:00",
+    "end_time": "2025-08-08T13:18:00",
+    "duration": 660,
+    "total_detections": 274,
+    "slouch_count": 93,
+    "good_posture_count": 181,
+    "slouch_percentage": 33.9,
+    "alerts": [
+      {
+        "timestamp": "13:09:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "13:10:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "13:12:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "13:14:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "13:15:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_0_1_20250808_183100",
+    "timestamp": "2025-08-08T18:41:00",
+    "start_time": "2025-08-08T18:31:00",
+    "end_time": "2025-08-08T18:41:00",
+    "duration": 600,
+    "total_detections": 147,
+    "slouch_count": 15,
+    "good_posture_count": 132,
+    "slouch_percentage": 10.2,
+    "alerts": [
+      {
+        "timestamp": "18:36:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:36:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:35:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:35:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:40:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_0_2_20250808_161800",
+    "timestamp": "2025-08-08T16:41:00",
+    "start_time": "2025-08-08T16:18:00",
+    "end_time": "2025-08-08T16:41:00",
+    "duration": 1380,
+    "total_detections": 280,
+    "slouch_count": 84,
+    "good_posture_count": 196,
+    "slouch_percentage": 30.0,
+    "alerts": [
+      {
+        "timestamp": "16:32:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "16:33:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "16:37:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "16:40:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "16:28:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_1_0_20250807_134800",
+    "timestamp": "2025-08-07T14:03:00",
+    "start_time": "2025-08-07T13:48:00",
+    "end_time": "2025-08-07T14:03:00",
+    "duration": 900,
+    "total_detections": 109,
+    "slouch_count": 8,
+    "good_posture_count": 101,
+    "slouch_percentage": 7.3,
+    "alerts": [
+      {
+        "timestamp": "13:59:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "13:52:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "13:59:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "14:02:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "13:57:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_1_1_20250807_182000",
+    "timestamp": "2025-08-07T18:30:00",
+    "start_time": "2025-08-07T18:20:00",
+    "end_time": "2025-08-07T18:30:00",
+    "duration": 600,
+    "total_detections": 73,
+    "slouch_count": 8,
+    "good_posture_count": 65,
+    "slouch_percentage": 11.0,
+    "alerts": [
+      {
+        "timestamp": "18:26:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:21:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:25:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:25:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:28:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_2_0_20250806_183700",
+    "timestamp": "2025-08-06T18:53:00",
+    "start_time": "2025-08-06T18:37:00",
+    "end_time": "2025-08-06T18:53:00",
+    "duration": 960,
+    "total_detections": 245,
+    "slouch_count": 16,
+    "good_posture_count": 229,
+    "slouch_percentage": 6.5,
+    "alerts": [
+      {
+        "timestamp": "18:52:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:40:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:40:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:44:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:49:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_2_1_20250806_165600",
+    "timestamp": "2025-08-06T17:04:00",
+    "start_time": "2025-08-06T16:56:00",
+    "end_time": "2025-08-06T17:04:00",
+    "duration": 480,
+    "total_detections": 106,
+    "slouch_count": 35,
+    "good_posture_count": 71,
+    "slouch_percentage": 33.0,
+    "alerts": [
+      {
+        "timestamp": "16:59:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "16:58:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "16:57:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "16:58:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "16:57:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_2_2_20250806_184400",
+    "timestamp": "2025-08-06T18:59:00",
+    "start_time": "2025-08-06T18:44:00",
+    "end_time": "2025-08-06T18:59:00",
+    "duration": 900,
+    "total_detections": 211,
+    "slouch_count": 6,
+    "good_posture_count": 205,
+    "slouch_percentage": 2.8,
+    "alerts": [
+      {
+        "timestamp": "18:49:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:54:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:51:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:49:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:51:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_3_0_20250805_114800",
+    "timestamp": "2025-08-05T12:09:00",
+    "start_time": "2025-08-05T11:48:00",
+    "end_time": "2025-08-05T12:09:00",
+    "duration": 1260,
+    "total_detections": 72,
+    "slouch_count": 23,
+    "good_posture_count": 49,
+    "slouch_percentage": 31.9,
+    "alerts": [
+      {
+        "timestamp": "12:00:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "11:49:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "11:56:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "11:49:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "12:04:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_3_1_20250805_151800",
+    "timestamp": "2025-08-05T15:26:00",
+    "start_time": "2025-08-05T15:18:00",
+    "end_time": "2025-08-05T15:26:00",
+    "duration": 480,
+    "total_detections": 256,
+    "slouch_count": 102,
+    "good_posture_count": 154,
+    "slouch_percentage": 39.8,
+    "alerts": [
+      {
+        "timestamp": "15:25:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "15:19:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "15:24:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "15:20:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "15:25:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_3_2_20250805_140200",
+    "timestamp": "2025-08-05T14:29:00",
+    "start_time": "2025-08-05T14:02:00",
+    "end_time": "2025-08-05T14:29:00",
+    "duration": 1620,
+    "total_detections": 268,
+    "slouch_count": 96,
+    "good_posture_count": 172,
+    "slouch_percentage": 35.8,
+    "alerts": [
+      {
+        "timestamp": "14:13:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "14:04:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "14:11:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "14:10:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "14:20:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_4_0_20250804_111200",
+    "timestamp": "2025-08-04T11:22:00",
+    "start_time": "2025-08-04T11:12:00",
+    "end_time": "2025-08-04T11:22:00",
+    "duration": 600,
+    "total_detections": 129,
+    "slouch_count": 5,
+    "good_posture_count": 124,
+    "slouch_percentage": 3.9,
+    "alerts": [
+      {
+        "timestamp": "11:18:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "11:20:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "11:19:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "11:16:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "11:16:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_4_1_20250804_171600",
+    "timestamp": "2025-08-04T17:29:00",
+    "start_time": "2025-08-04T17:16:00",
+    "end_time": "2025-08-04T17:29:00",
+    "duration": 780,
+    "total_detections": 166,
+    "slouch_count": 32,
+    "good_posture_count": 134,
+    "slouch_percentage": 19.3,
+    "alerts": [
+      {
+        "timestamp": "17:26:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "17:18:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "17:19:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "17:17:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "17:28:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_5_0_20250803_175400",
+    "timestamp": "2025-08-03T18:15:00",
+    "start_time": "2025-08-03T17:54:00",
+    "end_time": "2025-08-03T18:15:00",
+    "duration": 1260,
+    "total_detections": 68,
+    "slouch_count": 14,
+    "good_posture_count": 54,
+    "slouch_percentage": 20.6,
+    "alerts": [
+      {
+        "timestamp": "18:01:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:02:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:10:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:04:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "18:12:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_5_1_20250803_141200",
+    "timestamp": "2025-08-03T14:36:00",
+    "start_time": "2025-08-03T14:12:00",
+    "end_time": "2025-08-03T14:36:00",
+    "duration": 1440,
+    "total_detections": 96,
+    "slouch_count": 22,
+    "good_posture_count": 74,
+    "slouch_percentage": 22.9,
+    "alerts": [
+      {
+        "timestamp": "14:15:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "14:30:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "14:33:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "14:31:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "14:30:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_6_0_20250802_122200",
+    "timestamp": "2025-08-02T12:51:00",
+    "start_time": "2025-08-02T12:22:00",
+    "end_time": "2025-08-02T12:51:00",
+    "duration": 1740,
+    "total_detections": 186,
+    "slouch_count": 14,
+    "good_posture_count": 172,
+    "slouch_percentage": 7.5,
+    "alerts": [
+      {
+        "timestamp": "12:24:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "12:24:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "12:23:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "12:40:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "12:47:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_6_1_20250802_163500",
+    "timestamp": "2025-08-02T16:46:00",
+    "start_time": "2025-08-02T16:35:00",
+    "end_time": "2025-08-02T16:46:00",
+    "duration": 660,
+    "total_detections": 123,
+    "slouch_count": 23,
+    "good_posture_count": 100,
+    "slouch_percentage": 18.7,
+    "alerts": [
+      {
+        "timestamp": "16:37:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "16:45:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "16:42:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "16:43:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "16:37:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  },
+  {
+    "session_id": "sample_session_6_2_20250802_100100",
+    "timestamp": "2025-08-02T10:23:00",
+    "start_time": "2025-08-02T10:01:00",
+    "end_time": "2025-08-02T10:23:00",
+    "duration": 1320,
+    "total_detections": 134,
+    "slouch_count": 9,
+    "good_posture_count": 125,
+    "slouch_percentage": 6.7,
+    "alerts": [
+      {
+        "timestamp": "10:15:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "10:22:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "10:22:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "10:16:00",
+        "message": "Slouching detected! Please sit up straight."
+      },
+      {
+        "timestamp": "10:20:00",
+        "message": "Slouching detected! Please sit up straight."
+      }
+    ]
+  }
+]
