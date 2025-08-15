@@ -293,19 +293,14 @@ docker run -p 5000:5000 slouching-detection
 - **Mobile App**: iOS/Android applications
 - **Cloud Integration**: Remote monitoring capabilities
 
-## 👥 Team Information
 
-**Team 4 - Final Year Project**
+
+**- Final Year Project**
 - **Domain**: Computer Vision & Machine Learning
-- **Institution**: [Your University Name]
-- **Academic Year**: 2024
-- **Supervisor**: [Supervisor Name]
 
-### Team Members
-- [Member 1 Name] - Lead Developer
-- [Member 2 Name] - ML Engineer
-- [Member 3 Name] - UI/UX Designer
-- [Member 4 Name] - Data Analyst
+- **Academic Year**: 2024
+
+
 
 ## 📄 License
 
@@ -322,9 +317,8 @@ This project is developed for academic purposes as part of a final year project.
 ## 📞 Contact
 
 For questions or support regarding this project, please contact:
-- **Email**: [team4@university.edu]
-- **Project Repository**: [GitHub Link]
-- **Documentation**: [Documentation Link]
+- **Email**: [tolanideepanshu@gmail.com]
+
 
 ---
 
