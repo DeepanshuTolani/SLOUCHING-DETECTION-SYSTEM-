@@ -8,7 +8,7 @@
 
 ## 📋 Presentation Structure
 
-### 1. Introduction (2-3 minutes)
+### 1. Introduction 
 
 #### Problem Statement
 - **Issue**: Poor posture leading to health problems
