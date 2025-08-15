@@ -3,7 +3,7 @@
 
 A comprehensive real-time posture detection system using computer vision and machine learning to monitor and improve sitting posture.
 
-![Project Banner](https://img.shields.io/badge/Team-4-blue) ![Python](https://img.shields.io/badge/Python-3.8+-green) ![Flask](https://img.shields.io/badge/Flask-2.3+-orange) ![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-red) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10+-purple)
+![Python](https://img.shields.io/badge/Python-3.8+-green) ![Flask](https://img.shields.io/badge/Flask-2.3+-orange) ![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-red) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10+-purple)
 
 ## 🎯 Project Overview
 
