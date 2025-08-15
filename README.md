@@ -49,7 +49,7 @@ This project implements an intelligent slouching detection system that uses adva
 
 1. **Clone the repository**
    ```bash
-   cd C:\Users\Dell\Desktop\ml_team4
+   cd C:\Users\Dell\Desktop\SLOUCHING-DETECTION-SYSTEM
    ```
 
 2. **Install dependencies**
@@ -75,7 +75,7 @@ This project implements an intelligent slouching detection system that uses adva
 ## 📁 Project Structure
 
 ```
-ml_team4/
+SLOUCHING-DETECTION-SYSTEM/
 ├── app.py                      # Main Flask application
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project documentation
