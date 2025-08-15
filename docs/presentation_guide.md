@@ -1,25 +1,14 @@
 # Presentation Guide - Slouching Detection System
 
-## Team 4 Final Year Project Demonstration
+## Final Year Project Demonstration
 
-### 🎯 Presentation Overview
 
-**Duration**: 15-20 minutes  
-**Format**: Live demonstration + Q&A  
-**Target Audience**: Academic panel, faculty members, and fellow students
 
 ---
 
 ## 📋 Presentation Structure
 
 ### 1. Introduction (2-3 minutes)
-
-#### Opening Statement
-"Good morning/afternoon everyone. We are Team 4, and today we present our final year project: **Advanced Slouching Detection System using Computer Vision and Machine Learning**."
-
-#### Team Introduction
-- Introduce team members and their roles
-- Brief overview of project motivation
 
 #### Problem Statement
 - **Issue**: Poor posture leading to health problems
